@@ -1,0 +1,42 @@
+Folder PATH listing for volume Acer
+Volume serial number is 0000020B EAA6:83DB
+C:\USERS\KISHA\ONEDRIVE\DESKTOP\PROJECTS\EDUERP\PROJECT-CRM\EDUERP\SRC
+¦   App.jsx
+¦   index.css
+¦   main.jsx
+¦   
++---assets
+¦   ¦   hero.png
+¦   ¦   vite.svg
+¦   ¦   
+¦   +---Images
+¦           admin-banner.png
+¦           login.png
+¦           role-selection.png
+¦           student-banner.png
+¦           teacher-banner.png
+¦           
++---Components
+¦       Announcements.jsx
+¦       Footer.jsx
+¦       Navbar.jsx
+¦       ProtectedRoute.jsx
+¦       RecentActivities.jsx
+¦       sidebar.jsx
+¦       statCard.jsx
+¦       
++---Pages
+        AdminDashboard.jsx
+        Attendance.jsx
+        Fees.jsx
+        Login.jsx
+        Marks.jsx
+        Notifications.jsx
+        ParentDashboard.jsx
+        Reports.jsx
+        Settings.jsx
+        StudentDashboard.jsx
+        Students.jsx
+        TeacherDashboard.jsx
+        Teachers.jsx
+        
